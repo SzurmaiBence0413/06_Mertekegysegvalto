@@ -1,5 +1,6 @@
 # json szerver leírása
 
+
 # json szerver indítása
 [json szerver](https://github.com/typicode/json-server)  
 
